@@ -1,4 +1,4 @@
-# e-learning-education
+# e-learning education
 Contribution in in facilitating e- learning education with the help of computer acknowledgment of sign based communication
 # What is it?
 A code to cut the background from the video and present it in new window with the filtered video and also a feature for dumb deaf and dumb students to communicate during online classes especially in times like now with up and coming technologies and situations.
